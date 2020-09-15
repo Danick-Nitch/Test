@@ -1,1 +1,2 @@
 La surface d'un cercles est pi *r*r
+la surface durectangle est lon * larg
